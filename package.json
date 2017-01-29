@@ -14,5 +14,13 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "glob": "^7.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiShiSangZi/lang-gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LiShiSangZi/lang-gen/issues"
+  },
+  "homepage": "https://github.com/LiShiSangZi/lang-gen#readme"
 }
